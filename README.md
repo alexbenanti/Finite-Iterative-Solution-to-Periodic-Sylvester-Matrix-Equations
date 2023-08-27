@@ -1,6 +1,6 @@
 # Finite-Iterative-Solution-to-Periodic-Sylvester-Matrix-Equations
 
-In "Finite Iterative Solutions to Periodic Sylvester Equations" Lv and Zhang consider the periodic Sylvester matrix equations (PSMEs), which take two forms: 
+In "Finite Iterative Solutions to Periodic Sylvester Equations" by Lv and Zhang consider the periodic Sylvester matrix equations (PSMEs), which take two forms: 
 
 
 $$A_jX_j + X_{j+1}B_j = C_j\hbox{ (1)}$$
